@@ -63,3 +63,4 @@ See also the [active proposals](README.md), [stage 1 proposals](stage-1-proposal
 [spaceship]: https://github.com/hemanth/proposal-generic-comparison
 [array-equality]: https://github.com/tc39/proposal-array-equality
 [fromimport]: https://github.com/bmeck/proposal-from-import
+New branch
